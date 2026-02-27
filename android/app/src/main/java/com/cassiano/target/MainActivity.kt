@@ -1,4 +1,4 @@
-package com.apptarget
+package com.cassiano.target
 
 import android.os.Build
 import android.os.Bundle
